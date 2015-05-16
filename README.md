@@ -1,6 +1,7 @@
 # Mongoid::EmbeddedErrors
 
 Easily bubble up errors from embedded documents in Mongoid.
+(This is a fork to add Mongoid 4 compatibility)
 
 ## Installation
 
